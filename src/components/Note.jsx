@@ -1,5 +1,4 @@
 import React from "react";
-import DeleteForeverIcon from '@material-ui/icons/DeleteForever';
 import DeleteOutlineIcon from '@material-ui/icons/DeleteOutline';
 
 function Note(props) {
