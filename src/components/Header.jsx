@@ -4,7 +4,7 @@ import HomeIcon from '@material-ui/icons/Home';
 function Header() {
   return (
     <header>
-      <h1><HomeIcon />Keeper</h1>
+      <h1><HomeIcon />Desktop Keeper</h1>
     </header>
   );
 }
