@@ -3,6 +3,7 @@ import Header from "./Header";
 import Footer from "./Footer";
 import Note from "./Note";
 import CreateArea from "./CreateArea";
+import Weather from "./Weather";
 
 function App() {
   const [notes, setNotes] = useState([]);
@@ -36,6 +37,7 @@ function App() {
           />
         );
       })}
+      {/* <Weather /> */}
       <Footer />
     </div>
   );
